@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-06-16 11:42+0545\n"
+"PO-Revision-Date: 2021-06-16 11:42+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html_e;esc_attr;esc_attr_e;"
+"esc_html__;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:19
+msgid "Error"
+msgstr ""
+
+#: 404.php:20
+msgid "404"
+msgstr ""
+
+#: 404.php:23
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:25
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:44
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:50
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:54 template-parts/header2.php:35
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:55
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:56
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:183
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:184
+msgid "collapse child menu"
+msgstr ""
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: inc/blaze-upsells/blaze-pro-btn/class-customize.php:76
+msgid "For more features"
+msgstr ""
+
+#: inc/blaze-upsells/blaze-pro-btn/class-customize.php:77
+msgid "Go Pro"
+msgstr ""
+
+#: inc/bz-hooks/general_hooks.php:22
+msgid "Home"
+msgstr ""
+
+#: inc/extras.php:75
+msgid "Post Author"
+msgstr ""
+
+#: inc/extras.php:80
+msgid " at "
+msgstr ""
+
+#: inc/extras.php:85
+msgid "Edit Comment"
+msgstr ""
+
+#: inc/extras.php:99
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/sidebars.php:11
+msgid "Home Intro Post Section"
+msgstr ""
+
+#: inc/sidebars.php:13
+msgid "homepage intro post"
+msgstr ""
+
+#: inc/sidebars.php:21
+msgid "Home Middle Section"
+msgstr ""
+
+#: inc/sidebars.php:23
+msgid "homepage middle section"
+msgstr ""
+
+#: inc/sidebars.php:32
+msgid "Home Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:34
+msgid "Right sidebar for the homepage"
+msgstr ""
+
+#: inc/sidebars.php:42
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:44
+msgid "Right sidebar for the blog"
+msgstr ""
+
+#: inc/sidebars.php:52
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:54
+msgid "Right sidebar for pages"
+msgstr ""
+
+#: inc/sidebars.php:64
+msgid "Header"
+msgstr ""
+
+#: inc/sidebars.php:66
+msgid "This is a header right sidebar content"
+msgstr ""
+
+#: inc/sidebars.php:74
+msgid "Bottom 1"
+msgstr ""
+
+#: inc/sidebars.php:76
+msgid "Bottom 1 position"
+msgstr ""
+
+#: inc/sidebars.php:83
+msgid "Bottom 2"
+msgstr ""
+
+#: inc/sidebars.php:85
+msgid "Bottom 2 position"
+msgstr ""
+
+#: inc/sidebars.php:92
+msgid "Bottom 3"
+msgstr ""
+
+#: inc/sidebars.php:94
+msgid "Bottom 3 position"
+msgstr ""
+
+#: inc/sidebars.php:101
+msgid "Bottom 4"
+msgstr ""
+
+#: inc/sidebars.php:103
+msgid "Bottom 4 position"
+msgstr ""
+
+#: inc/sidebars.php:111
+msgid "Footer"
+msgstr ""
+
+#: inc/sidebars.php:113
+msgid ""
+"This is a sidebar position that sits above the footer menu and copyright"
+msgstr ""
+
+#: inc/template-tags.php:19
+msgid "Written by"
+msgstr ""
+
+#: inc/template-tags.php:37
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:40
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:42
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:56 template-parts/content-page.php:35
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:72 template-parts/content-page.php:24
+#: template-parts/content.php:35
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-tags.php:76
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:106
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-tags.php:107
+msgid "Next Post:"
+msgstr ""
+
+#: inc/template-tags.php:110
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:111
+msgid "Previous Post:"
+msgstr ""
+
+#: inc/template-tags.php:130
+msgid "Select Category"
+msgstr ""
+
+#: inc/template-tags.php:182
+msgid "Written by "
+msgstr ""
+
+#: inc/themeinfo.php:10
+msgid "Lifestyle Blog Theme Info"
+msgstr ""
+
+#: inc/themeinfo.php:10 inc/themeinfo.php:18
+msgid "Lifestyle Blog Info"
+msgstr ""
+
+#: inc/themeinfo.php:20
+msgid "Setup Tutorials (Documentation)"
+msgstr ""
+
+#: inc/themeinfo.php:22
+msgid "Setup Tutorials Pro version (Documentation)"
+msgstr ""
+
+#: inc/themeinfo.php:24
+msgid "Theme demo"
+msgstr ""
+
+#: inc/themeinfo.php:27
+msgid "Get Pro Version"
+msgstr ""
+
+#: inc/themeinfo.php:29
+msgid "Pro Theme demo"
+msgstr ""
+
+#: inc/widgets/intro-post-widget.php:25
+msgid "A widget to display the Intro posts with thumbnail."
+msgstr ""
+
+#: inc/widgets/intro-post-widget.php:27
+msgid "Lifestyle: Intro Posts"
+msgstr ""
+
+#: inc/widgets/intro-post-widget.php:42 inc/widgets/latest-posts-widget.php:40
+#: inc/widgets/post-grid-widget.php:40 inc/widgets/recent-comment-widget.php:37
+msgid "Widget title"
+msgstr ""
+
+#: inc/widgets/intro-post-widget.php:48
+msgid "Intro Post Category"
+msgstr ""
+
+#: inc/widgets/intro-post-widget.php:56 inc/widgets/latest-posts-widget.php:57
+#: inc/widgets/post-grid-widget.php:53
+msgid "Post Count"
+msgstr ""
+
+#: inc/widgets/latest-posts-widget.php:25 inc/widgets/post-grid-widget.php:25
+msgid "A widget to display the latest posts with thumbnail."
+msgstr ""
+
+#: inc/widgets/latest-posts-widget.php:27
+msgid "Lifestyle: Latest Posts"
+msgstr ""
+
+#: inc/widgets/latest-posts-widget.php:46
+msgid "Post Order"
+msgstr ""
+
+#: inc/widgets/latest-posts-widget.php:50
+msgid "Default Order"
+msgstr ""
+
+#: inc/widgets/latest-posts-widget.php:51
+msgid "Random Order"
+msgstr ""
+
+#: inc/widgets/post-grid-widget.php:27
+msgid "Lifestyle: Post Grid Layout"
+msgstr ""
+
+#: inc/widgets/post-grid-widget.php:46
+msgid "Feature Category"
+msgstr ""
+
+#: inc/widgets/recent-comment-widget.php:23
+msgid "Display Recent Comment"
+msgstr ""
+
+#: inc/widgets/recent-comment-widget.php:25
+msgid "Lifestyle : Recent Comment"
+msgstr ""
+
+#: inc/widgets/recent-comment-widget.php:43
+msgid "Enter the number of comment to display"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:104 inc/widgets/widget-fields.php:105
+msgid "["
+msgstr ""
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-blog1.php:25 template-parts/content-single.php:22
+msgid "Featured"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content.php:28
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/header2.php:37
+msgid "Menu"
+msgstr ""

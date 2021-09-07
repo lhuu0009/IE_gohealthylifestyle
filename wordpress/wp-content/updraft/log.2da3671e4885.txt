@@ -1,0 +1,334 @@
+0000.000 (0) Opened log file at time: Tue, 07 Sep 2021 00:23:51 +0000 on https://www.gohealthylifestyle.ga
+0000.005 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.61 WP: 5.8 PHP: 7.4.22 (fpm-fcgi, Linux ip-172-31-31-179 4.19.0-17-cloud-amd64 #1 SMP Debian 4.19.194-3 (2021-07-18) x86_64) MySQL: 10.3.31-MariaDB (max packet size=16777216) WPLANG: en_US Server: Apache/2.4.48 (Unix) OpenSSL/1.1.1d safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 5.6M | 6M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.008 (0) Free space on disk containing Updraft's temporary directory: 5488.2 MB
+0000.012 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.014 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.020 (0) Set semaphore last lock (fd) time to 2021-09-07 00:23:51
+0000.022 (0) Semaphore lock (fd) complete
+0000.027 (0) Backup run: resumption=0, nonce=2da3671e4885, file_nonce=2da3671e4885 begun at=1630974231 (0s ago), job type=backup
+0000.032 (0) Scheduling a resumption (1) after 300 seconds (1630974531) in case this run gets aborted
+0000.034 (0) Checking if we have a zip executable available
+0000.035 (0) Testing: /usr/bin/zip
+0000.041 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.044 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.046 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.047 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.050 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.054 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.057 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.060 (0) Working binary zip found: /usr/bin/zip
+0000.063 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.066 (0) Creation of backups of directories: beginning
+0000.071 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.867 (0) Total entities for the zip file: 4032 directories, 11296 files (0 skipped as non-modified), 152.9 MB
+0002.873 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0003.010 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: size is now: 1.00 MB
+0003.014 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 100 files added (on-disk size: 978.2 KB)
+0003.016 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 200 files added (on-disk size: 978.2 KB)
+0003.020 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 300 files added (on-disk size: 978.2 KB)
+0003.024 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 400 files added (on-disk size: 978.2 KB)
+0003.027 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 500 files added (on-disk size: 978.2 KB)
+0003.031 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 600 files added (on-disk size: 978.2 KB)
+0003.033 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 700 files added (on-disk size: 978.2 KB)
+0003.037 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 800 files added (on-disk size: 978.2 KB)
+0003.040 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 900 files added (on-disk size: 978.2 KB)
+0003.044 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 1000 files added (on-disk size: 978.2 KB)
+0003.047 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (7.4 MB, 11296 files batched, 1001 (1002) added so far); re-opening (prior size: 978.2 KB)
+0004.219 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: size is now: 3.30 MB
+0004.227 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 1100 files added (on-disk size: 3412.5 KB)
+0004.229 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 1200 files added (on-disk size: 3412.5 KB)
+0004.232 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 1300 files added (on-disk size: 3412.5 KB)
+0004.235 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 1400 files added (on-disk size: 3412.5 KB)
+0004.239 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 1500 files added (on-disk size: 3412.5 KB)
+0004.240 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 1600 files added (on-disk size: 3412.5 KB)
+0004.244 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 1700 files added (on-disk size: 3412.5 KB)
+0004.247 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 1800 files added (on-disk size: 3412.5 KB)
+0004.251 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 1900 files added (on-disk size: 3412.5 KB)
+0004.253 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 2000 files added (on-disk size: 3412.5 KB)
+0004.255 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (16.2 MB, 11296 files batched, 1001 (2003) added so far); re-opening (prior size: 3412.5 KB)
+0005.719 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: size is now: 9.10 MB
+0005.725 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 2100 files added (on-disk size: 9318 KB)
+0005.728 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 2200 files added (on-disk size: 9318 KB)
+0005.731 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 2300 files added (on-disk size: 9318 KB)
+0005.735 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 2400 files added (on-disk size: 9318 KB)
+0005.736 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 2500 files added (on-disk size: 9318 KB)
+0005.740 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 2600 files added (on-disk size: 9318 KB)
+0005.743 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 2700 files added (on-disk size: 9318 KB)
+0005.746 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 2800 files added (on-disk size: 9318 KB)
+0005.748 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 2900 files added (on-disk size: 9318 KB)
+0005.752 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 3000 files added (on-disk size: 9318 KB)
+0005.753 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (19.4 MB, 11296 files batched, 1001 (3004) added so far); re-opening (prior size: 9318 KB)
+0007.581 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: size is now: 17.30 MB
+0007.589 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 3100 files added (on-disk size: 17766.1 KB)
+0007.592 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 3200 files added (on-disk size: 17766.1 KB)
+0007.595 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 3300 files added (on-disk size: 17766.1 KB)
+0007.599 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 3400 files added (on-disk size: 17766.1 KB)
+0007.601 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 3500 files added (on-disk size: 17766.1 KB)
+0007.604 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 3600 files added (on-disk size: 17766.1 KB)
+0007.607 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 3700 files added (on-disk size: 17766.1 KB)
+0007.609 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 3800 files added (on-disk size: 17766.1 KB)
+0007.612 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 3900 files added (on-disk size: 17766.1 KB)
+0007.614 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 4000 files added (on-disk size: 17766.1 KB)
+0007.615 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (9.8 MB, 11296 files batched, 1001 (4005) added so far); re-opening (prior size: 17766.1 KB)
+0008.794 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 4100 files added (on-disk size: 19365.2 KB)
+0008.798 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 4200 files added (on-disk size: 19365.2 KB)
+0008.801 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 4300 files added (on-disk size: 19365.2 KB)
+0008.804 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 4400 files added (on-disk size: 19365.2 KB)
+0008.808 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 4500 files added (on-disk size: 19365.2 KB)
+0008.811 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 4600 files added (on-disk size: 19365.2 KB)
+0008.814 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 4700 files added (on-disk size: 19365.2 KB)
+0008.817 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 4800 files added (on-disk size: 19365.2 KB)
+0008.820 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 4900 files added (on-disk size: 19365.2 KB)
+0008.823 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 5000 files added (on-disk size: 19365.2 KB)
+0008.825 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (17.3 MB, 11296 files batched, 1001 (5006) added so far); re-opening (prior size: 19365.2 KB)
+0010.220 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 5100 files added (on-disk size: 21551.6 KB)
+0010.223 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 5200 files added (on-disk size: 21551.6 KB)
+0010.227 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 5300 files added (on-disk size: 21551.6 KB)
+0010.228 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 5400 files added (on-disk size: 21551.6 KB)
+0010.232 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 5500 files added (on-disk size: 21551.6 KB)
+0010.236 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 5600 files added (on-disk size: 21551.6 KB)
+0010.239 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 5700 files added (on-disk size: 21551.6 KB)
+0010.242 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 5800 files added (on-disk size: 21551.6 KB)
+0010.244 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 5900 files added (on-disk size: 21551.6 KB)
+0010.248 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 6000 files added (on-disk size: 21551.6 KB)
+0010.250 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (2.2 MB, 11296 files batched, 1001 (6007) added so far); re-opening (prior size: 21551.6 KB)
+0011.263 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 6100 files added (on-disk size: 22344.1 KB)
+0011.267 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 6200 files added (on-disk size: 22344.1 KB)
+0011.269 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 6300 files added (on-disk size: 22344.1 KB)
+0011.272 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 6400 files added (on-disk size: 22344.1 KB)
+0011.276 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 6500 files added (on-disk size: 22344.1 KB)
+0011.279 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 6600 files added (on-disk size: 22344.1 KB)
+0011.282 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 6700 files added (on-disk size: 22344.1 KB)
+0011.284 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 6800 files added (on-disk size: 22344.1 KB)
+0011.287 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 6900 files added (on-disk size: 22344.1 KB)
+0011.290 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 7000 files added (on-disk size: 22344.1 KB)
+0011.293 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (7.6 MB, 11296 files batched, 1001 (7008) added so far); re-opening (prior size: 22344.1 KB)
+0012.324 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 7100 files added (on-disk size: 24797.4 KB)
+0012.344 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 7200 files added (on-disk size: 24797.4 KB)
+0012.364 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 7300 files added (on-disk size: 24797.4 KB)
+0012.367 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 7400 files added (on-disk size: 24797.4 KB)
+0012.370 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 7500 files added (on-disk size: 24797.4 KB)
+0012.373 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 7600 files added (on-disk size: 24797.4 KB)
+0012.376 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 7700 files added (on-disk size: 24797.4 KB)
+0012.380 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 7800 files added (on-disk size: 24797.4 KB)
+0012.382 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 7900 files added (on-disk size: 24797.4 KB)
+0012.384 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 8000 files added (on-disk size: 24797.4 KB)
+0012.386 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.4 MB, 11296 files batched, 1001 (8009) added so far); re-opening (prior size: 24797.4 KB)
+0013.500 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 8100 files added (on-disk size: 26482.4 KB)
+0013.504 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 8200 files added (on-disk size: 26482.4 KB)
+0013.508 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 8300 files added (on-disk size: 26482.4 KB)
+0013.511 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 8400 files added (on-disk size: 26482.4 KB)
+0013.514 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 8500 files added (on-disk size: 26482.4 KB)
+0013.516 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 8600 files added (on-disk size: 26482.4 KB)
+0013.520 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 8700 files added (on-disk size: 26482.4 KB)
+0013.524 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 8800 files added (on-disk size: 26482.4 KB)
+0013.527 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 8900 files added (on-disk size: 26482.4 KB)
+0013.531 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 9000 files added (on-disk size: 26482.4 KB)
+0013.534 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (12.4 MB, 11296 files batched, 1001 (9010) added so far); re-opening (prior size: 26482.4 KB)
+0014.852 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 9100 files added (on-disk size: 28430.3 KB)
+0014.855 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 9200 files added (on-disk size: 28430.3 KB)
+0014.859 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 9300 files added (on-disk size: 28430.3 KB)
+0014.861 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 9400 files added (on-disk size: 28430.3 KB)
+0014.864 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 9500 files added (on-disk size: 28430.3 KB)
+0014.867 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 9600 files added (on-disk size: 28430.3 KB)
+0014.871 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 9700 files added (on-disk size: 28430.3 KB)
+0014.873 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 9800 files added (on-disk size: 28430.3 KB)
+0014.876 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 9900 files added (on-disk size: 28430.3 KB)
+0014.879 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 10000 files added (on-disk size: 28430.3 KB)
+0014.882 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (21 MB, 11296 files batched, 1001 (10011) added so far); re-opening (prior size: 28430.3 KB)
+0016.715 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: size is now: 34.10 MB
+0016.722 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 10100 files added (on-disk size: 34922.6 KB)
+0016.724 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 10200 files added (on-disk size: 34922.6 KB)
+0016.728 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 10300 files added (on-disk size: 34922.6 KB)
+0016.732 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 10400 files added (on-disk size: 34922.6 KB)
+0016.736 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 10500 files added (on-disk size: 34922.6 KB)
+0016.739 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 10600 files added (on-disk size: 34922.6 KB)
+0016.741 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 10700 files added (on-disk size: 34922.6 KB)
+0016.744 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25 MB, 11296 files batched, 776 (10787) added so far); re-opening (prior size: 34922.6 KB)
+0018.579 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: size is now: 42.00 MB
+0018.616 (0) A useful amount of data was added after this amount of zip processing: 2.5 s (normalised: 2.5 s, rate: 10397.3 KB/s)
+0018.637 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.4632298946381, normalised_time=2.4621816002335, max_time=18.634265899658, data points known=1, old_max_bytes=26214400, new_max_bytes=119037385)
+0018.642 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 10800 files added (on-disk size: 43027.2 KB)
+0018.645 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 10900 files added (on-disk size: 43027.2 KB)
+0018.648 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 11000 files added (on-disk size: 43027.2 KB)
+0018.650 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 11100 files added (on-disk size: 43027.2 KB)
+0018.652 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip.tmp: 11200 files added (on-disk size: 43027.2 KB)
+0019.909 (0) Created plugins zip (0) - 44479 KB in 19.8 s (2242.2 KB/s) (sha1: 4c1d7de12e84532b0dff9bc415411493b8853c1b, sha256: 0a5daa90df0e486af413b8ef945ba505d89472ec831601e0e14777b98c928f2f)
+0019.915 (0) Beginning creation of dump of themes (split every: 400 MB)
+0020.031 (0) Total entities for the zip file: 223 directories, 873 files (0 skipped as non-modified), 19.7 MB
+0020.036 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0020.040 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0020.043 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0020.047 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0020.049 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0020.052 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0020.056 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0020.059 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0021.479 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-themes.zip.tmp: size is now: 11.00 MB
+0021.617 (0) Created themes zip (0) - 11229.2 KB in 1.7 s (6610.4 KB/s) (sha1: 8f09702144978eb1418a5f27b66b4cfdadaa9709, sha256: bfa3f4805c64455dd41e88c8c89fba9288c778b46071d3d00f3f3317f299cf06)
+0021.623 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0021.626 (0) Looking for candidates to backup in: /opt/bitnami/wordpress/wp-content/uploads
+0021.627 (0) finding files: 2021: adding to list (1)
+0021.628 (0) finding files: wp-file-manager-pro: adding to list (2)
+0021.630 (0) finding files: elementor: adding to list (3)
+0021.631 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0021.643 (0) Total entities for the zip file: 8 directories, 276 files (0 skipped as non-modified), 146.6 MB
+0021.647 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0021.650 (0) Zip: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0021.651 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 113.5 MB added on this batch (115.9 MB, 276 files batched, 231 (231) added so far); re-opening (prior size: 0 KB)
+0023.111 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-uploads.zip.tmp: size is now: 115.90 MB
+0023.117 (0) A useful amount of data was added after this amount of zip processing: 2 s (normalised: 1.9 s, rate: 60419.9 KB/s)
+0023.120 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.9639430046082, normalised_time=1.923993752116, max_time=23.118491888046, data points known=1, old_max_bytes=119037385, new_max_bytes=209715200)
+0024.057 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-uploads.zip.tmp: size is now: 146.70 MB
+0026.438 (0) Created uploads zip (0) - 150216.5 KB in 4.8 s (31270.5 KB/s) (sha1: 18269cdb921b9126c794e2e0408dc852eb4d4821, sha256: 1cae0c58091c7e128a86bede1e8e1d88d79275dce9fa842e05a00dd6c92cdc05)
+0026.443 (0) Beginning backup of other directories found in the content directory (index: 0)
+0026.445 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0026.450 (0) Looking for candidates to backup in: /opt/bitnami/wordpress/wp-content
+0026.452 (0) finding files: themes: skipping: this is the themes directory
+0026.454 (0) finding files: uploads: skipping: this is the uploads directory
+0026.455 (0) finding files: languages: adding to list (1)
+0026.456 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0026.459 (0) finding files: index.php: adding to list (2)
+0026.462 (0) finding files: updraft: skipping: this is the updraft directory
+0026.463 (0) finding files: plugins: skipping: this is the plugins directory
+0026.463 (0) finding files: upgrade: skipping: excluded by options
+0026.469 (0) Total entities for the zip file: 1 directories, 1 files (0 skipped as non-modified), 0 MB
+0026.477 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-others.zip.tmp: size is now: 0.00 MB
+0026.487 (0) Created others zip (0) - 0.3 KB in 0 s (16.1 KB/s) (sha1: 572d554e576e0e2a87d2c456e6ee4d5514f91448, sha256: 7392dbc404effe13c7497010d86c26d22514f7ac1a70d7dd67d2b4342c8d7406)
+0026.498 (0) Saving backup status to database (elements: 8)
+0026.502 (0) Beginning creation of database dump (WordPress DB)
+0026.503 (0) SQL compatibility mode is: ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0026.517 (0) Table wp_options: Total expected rows (approximate): 335
+0026.595 (0) Table wp_options: Rows added in this batch (next record: 1952): 331 (uncompressed bytes in this segment=1599569) in 0.08 seconds
+0026.608 (0) Table wp_options: finishing file(s) (2, 306.5 KB)
+0026.612 (0) Table wp_users: Total expected rows (approximate): 0
+0026.615 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1334) in 0.00 seconds
+0026.622 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0026.627 (0) Table wp_usermeta: Total expected rows (approximate): 24
+0026.634 (0) Table wp_usermeta: Rows added in this batch (next record: 29): 26 (uncompressed bytes in this segment=3568) in 0.01 seconds
+0026.642 (0) Table wp_usermeta: finishing file(s) (2, 1.6 KB)
+0026.649 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0026.656 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=684) in 0.00 seconds
+0026.668 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0026.675 (0) Table wp_comments: Total expected rows (approximate): 0
+0026.683 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2093) in 0.00 seconds
+0026.690 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+0026.694 (0) Table wp_links: Total expected rows (approximate): 0
+0026.696 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.00 seconds
+0026.704 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0026.710 (0) Table wp_postmeta: Total expected rows (approximate): 8572
+0026.983 (0) Table wp_postmeta: Rows added in this batch (next record: 8271): 6674 (uncompressed bytes in this segment=11121828) in 0.27 seconds
+0026.993 (0) Table wp_postmeta: finishing file(s) (2, 304.2 KB)
+0026.997 (0) Table wp_posts: Total expected rows (approximate): 799
+0027.109 (0) Table wp_posts: Rows added in this batch (next record: 1073): 956 (uncompressed bytes in this segment=3454011) in 0.11 seconds
+0027.119 (0) Table wp_posts: finishing file(s) (2, 95.5 KB)
+0027.123 (0) Table wp_term_relationships: Total expected rows (approximate): 6
+0027.129 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 6 (uncompressed bytes in this segment=757) in 0.00 seconds
+0027.135 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0027.141 (0) Table wp_term_taxonomy: Total expected rows (approximate): 2
+0027.150 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=939) in 0.01 seconds
+0027.162 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0027.167 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0027.176 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=657) in 0.01 seconds
+0027.187 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0027.192 (0) Table wp_terms: Total expected rows (approximate): 2
+0027.198 (0) Table wp_terms: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=769) in 0.00 seconds
+0027.203 (0) Table wp_terms: finishing file(s) (2, 0.4 KB)
+0027.206 (0) Skipping table (lacks our prefix (wp_)): student
+0027.212 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 0
+0027.218 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1507) in 0.00 seconds
+0027.228 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 0.5 KB)
+0027.232 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0027.235 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=611) in 0.00 seconds
+0027.242 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0027.246 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 0
+0027.250 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=581) in 0.00 seconds
+0027.258 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0027.273 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 0
+0027.282 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=782) in 0.00 seconds
+0027.291 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.4 KB)
+0027.297 (0) Table wp_aioseo_notifications: Total expected rows (approximate): 0
+0027.303 (0) Table wp_aioseo_notifications: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1556) in 0.00 seconds
+0027.313 (0) Table wp_aioseo_notifications: finishing file(s) (2, 0.5 KB)
+0027.319 (0) Table wp_aioseo_posts: Total expected rows (approximate): 0
+0027.326 (0) Table wp_aioseo_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=3521) in 0.00 seconds
+0027.336 (0) Table wp_aioseo_posts: finishing file(s) (2, 0.8 KB)
+0027.342 (0) Table wp_wpfm_backup: Total expected rows (approximate): 0
+0027.344 (0) Table wp_wpfm_backup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=528) in 0.00 seconds
+0027.351 (0) Table wp_wpfm_backup: finishing file(s) (2, 0.3 KB)
+0027.354 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_options.table.tmpr1953.gz (1/20/fopen): adding to final database dump
+0027.366 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_options.table.gz (2/20/fopen): adding to final database dump
+0027.369 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_users.table.tmpr2.gz (3/20/fopen): adding to final database dump
+0027.372 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_users.table.gz (4/20/fopen): adding to final database dump
+0027.375 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_usermeta.table.tmpr30.gz (5/20/fopen): adding to final database dump
+0027.378 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_usermeta.table.gz (6/20/fopen): adding to final database dump
+0027.379 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_commentmeta.table.tmpr0.gz (7/20/fopen): adding to final database dump
+0027.380 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_commentmeta.table.gz (8/20/fopen): adding to final database dump
+0027.382 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_comments.table.tmpr2.gz (9/20/fopen): adding to final database dump
+0027.385 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_comments.table.gz (10/20/fopen): adding to final database dump
+0027.388 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_links.table.tmpr0.gz (11/20/fopen): adding to final database dump
+0027.390 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_links.table.gz (12/20/fopen): adding to final database dump
+0027.391 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_postmeta.table.tmpr8272.gz (13/20/fopen): adding to final database dump
+0027.397 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_postmeta.table.gz (14/20/fopen): adding to final database dump
+0027.400 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_posts.table.tmpr1074.gz (15/20/fopen): adding to final database dump
+0027.403 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_posts.table.gz (16/20/fopen): adding to final database dump
+0027.405 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_term_relationships.table.tmpr100001.gz (17/20/fopen): adding to final database dump
+0027.406 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_term_relationships.table.gz (18/20/fopen): adding to final database dump
+0027.407 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_term_taxonomy.table.tmpr3.gz (19/20/fopen): adding to final database dump
+0027.410 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_term_taxonomy.table.gz (20/20/fopen): adding to final database dump
+0027.411 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_termmeta.table.tmpr0.gz (21/20/fopen): adding to final database dump
+0027.413 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_termmeta.table.gz (22/20/fopen): adding to final database dump
+0027.416 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_terms.table.tmpr3.gz (23/20/fopen): adding to final database dump
+0027.418 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_terms.table.gz (24/20/fopen): adding to final database dump
+0027.419 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_actionscheduler_actions.table.tmpr0.gz (25/20/fopen): adding to final database dump
+0027.421 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_actionscheduler_actions.table.gz (26/20/fopen): adding to final database dump
+0027.422 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_actionscheduler_claims.table.tmpr0.gz (27/20/fopen): adding to final database dump
+0027.423 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_actionscheduler_claims.table.gz (28/20/fopen): adding to final database dump
+0027.426 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_actionscheduler_groups.table.tmpr0.gz (29/20/fopen): adding to final database dump
+0027.427 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_actionscheduler_groups.table.gz (30/20/fopen): adding to final database dump
+0027.428 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_actionscheduler_logs.table.tmpr0.gz (31/20/fopen): adding to final database dump
+0027.430 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_actionscheduler_logs.table.gz (32/20/fopen): adding to final database dump
+0027.433 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_aioseo_notifications.table.tmpr0.gz (33/20/fopen): adding to final database dump
+0027.435 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_aioseo_notifications.table.gz (34/20/fopen): adding to final database dump
+0027.437 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_aioseo_posts.table.tmpr0.gz (35/20/fopen): adding to final database dump
+0027.438 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_aioseo_posts.table.gz (36/20/fopen): adding to final database dump
+0027.439 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_wpfm_backup.table.tmpr0.gz (37/20/fopen): adding to final database dump
+0027.442 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db-table-wp_wpfm_backup.table.gz (38/20/fopen): adding to final database dump
+0027.447 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db.gz: finished writing out complete database file (715.4 KB)
+0027.471 (0) Total database tables backed up: 19 (backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db.gz, size: 732686, sha1: 87606833f36f0d7762fdd43ff572469e8c7f7b9b, sha256: 9b7b98517de5989e877e06bd027e020f81bf76f917d98d7e578e5ee36f10db08)
+0027.480 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0027.482 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0027.483 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0027.485 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-others.zip: others: This file has not yet been successfully uploaded: will queue
+0027.486 (0) backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db.gz: db: This file has not yet been successfully uploaded: will queue
+0027.487 (0) Saving backup history. Total backup size: 201.8 MB
+0027.492 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0027.500 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0027.503 (0) No remote despatch: user chose no remote backup service
+0027.506 (0) Recording as successfully uploaded: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-plugins.zip
+0027.508 (0) Recording as successfully uploaded: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-themes.zip
+0027.512 (0) Recording as successfully uploaded: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-uploads.zip
+0027.517 (0) Recording as successfully uploaded: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-others.zip
+0027.522 (0) Recording as successfully uploaded: backup_2021-09-07-0023_Go_Healthy_Lifestyle_2da3671e4885-db.gz
+0027.529 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0027.532 (0) Number of backup sets in history: 2; groups (db): 1
+0027.535 (0) Examining (for databases) backup set with group_id=0, nonce=2da3671e4885, datestamp=1630974231 (Sep 07 2021 00:23:51)
+0027.537 (0) This backup set is the backup set just made, so will not be deleted.
+0027.537 (0) Examining (for databases) backup set with group_id=0, nonce=051979b5ba64, datestamp=1630880608 (Sep 05 2021 22:23:28)
+0027.537 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0027.538 (0) Number of backup sets in history: 2; groups (files): 1
+0027.539 (0) Examining (for files) backup set with nonce=2da3671e4885, datestamp=1630974231 (Sep 07 2021 00:23:51)
+0027.539 (0) This backup set is the backup set just made, so will not be deleted.
+0027.542 (0) This backup set is the backup set just made, so will not be deleted.
+0027.542 (0) This backup set is the backup set just made, so will not be deleted.
+0027.542 (0) This backup set is the backup set just made, so will not be deleted.
+0027.542 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0027.543 (0) Examining (for files) backup set with nonce=051979b5ba64, datestamp=1630880608 (Sep 05 2021 22:23:28)
+0027.543 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0027.543 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0027.548 (0) Resume backup (2da3671e4885, 0): finish run
+0027.559 (0) Decremented the semaphore (fd) by 1
+0027.562 (0) Semaphore (fd) unlocked
+0027.563 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0027.572 (0) No email will/can be sent - the user has not configured an email address.
+0027.574 (0) The backup apparently succeeded and is now complete
